@@ -15,7 +15,8 @@
             "Svg.Styled.Attributes",
             "Svg.Styled.Events",
             "Svg.Styled.Keyed",
-            "Svg.Styled.Lazy"
+            "Svg.Styled.Lazy",
+            "VirtualDom.Styled"
         ],
         "Styling": [
             "Css",
